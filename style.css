@@ -2,6 +2,17 @@
     text-align: center;
 }
 
+
+.name{
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+}
+
+.title{
+     font-family: 'Playfair Display', serif;
+     font-size: 28px;
+}
+
 .icon{
     max-width: 25px;
 }
