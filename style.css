@@ -24,6 +24,11 @@ a:hover, a:visited, a:link, a:active {
     padding-top: 2em;
 }
 
+    .my-footer a {
+        font-family: 'Raleway', sans-serif;
+        font-size: 12pt;
+    }
+
 .photo {
     max-height: 450px;
     margin: 0 auto;
